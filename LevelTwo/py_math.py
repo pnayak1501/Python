@@ -1,0 +1,10 @@
+import math
+print(abs(-44))
+print(math.fabs(-54))
+print(math.ceil(44.5434))
+print(math.floor(44.5434))
+print(math.factorial(3))
+print(max(2,3,4,5,5,6,6,6,6,78))
+print(min(2,3,4,5,5,6,6,6,6,78))
+print(math.sqrt(4))
+print(math.pow(2,5))
