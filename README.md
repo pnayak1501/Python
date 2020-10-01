@@ -1,2 +1,2 @@
 # Python
-Python Practice Programs
+Python exercise Programs
